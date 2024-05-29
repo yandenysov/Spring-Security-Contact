@@ -11,8 +11,8 @@
 	<groupId>com.example</groupId>
 	<artifactId>Spring-Security-Contact</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring-Boot-Security</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Spring-Security-Contact</name>
+	<description>Demo project for Spring</description>
 	<properties>
 		<java.version>21</java.version>
 	</properties>
